@@ -1,3 +1,5 @@
+**This is a port of https://github.com/lawnjelly/smoothing-addon to C#, working in Godot 3.2 Alpha 1.**
+
 # smoothing-addon v 1.0.0
 Fixed timestep interpolation gdscript addon for Godot 3.2 dev
 
